@@ -1,0 +1,3 @@
+User 'test1' is connected..
+User 'test2' is connected..
+test2 : hi test1

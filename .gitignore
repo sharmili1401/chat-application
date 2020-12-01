@@ -1,0 +1,15 @@
+*.DS_Store
+build/
+target/
+bin/
+dependency-reduced-pom.xml
+.classpath
+.factorypath
+.project
+.settings/
+*.iml
+*.ipr
+*.iws
+*.idea
+*.log*
+Thumbs.db
